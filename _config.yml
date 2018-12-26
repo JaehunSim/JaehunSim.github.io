@@ -15,7 +15,7 @@ float_logo: false # true, false (default)
 
 # blog cover
 cover: "/assets/images/background-school.jpg"
-
+page: "/assets/images/background-post.jpg"
 name: 'JaehunSim'
 author: 'JaehunSim'
 author_image: "/assets/images/moon_logo.jpg"
