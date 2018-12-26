@@ -15,7 +15,7 @@ comments: true
 3. 역사
 4. 현재와 미래
 5. 실행
-6. 정리
+6. 정리.
 ### 2. 스파크 간단히 살펴보기
 1. 기본 아키텍처
 2. 다양한 언어 API
@@ -27,7 +27,7 @@ comments: true
 8. 액션
 9. Spark UI
 10. 종합예제
-11. 정리
+11. 정리.
 ### 3. 스파크 기능 둘러보기
 1. 운영용 앱 실행
 2. Dataset: 타입 안정성 제공하는 구조적 API
@@ -36,7 +36,7 @@ comments: true
 5. 저수준 API
 6. sparkR
 7. 스파크와 에코시스템, 패키지
-8. 정리
+8. 정리.
 
 ## Part2 구조적 API: DataFrame, SQL, Dataset
 ### 4. 구조적 API 개요
