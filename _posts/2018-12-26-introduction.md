@@ -131,10 +131,10 @@ comments: true
 	9. 체크포인트
 	10. RDD를 시스템 명령으로 전송하기
 	11. 정리
-13.  RDD 고급 개념
-	1. key-value 형태의 기초 (key-value RDD)
-	2. 집계
-	3. cogroup
+13. RDD 고급 개념  
+	1. key-value 형태의 기초 (key-value RDD)  
+	2. 집계  
+	3. cogroup  
 	4. join
 	5. partition control
 	6. 사용자 정의 직렬화(serialization)
