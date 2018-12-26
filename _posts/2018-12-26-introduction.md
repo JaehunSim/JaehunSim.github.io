@@ -1,44 +1,44 @@
 ---
 layout: post
 title:  "스파크 목차 정리"
-date:   2018-12-26 21:37:30
+date:   2018-12-26 21:42:30
 image: "/assets/images/background-post.jpg"
 comments: true
 ---
 
-#스파크 목차
+# 스파크 목차
 
-##Part1 빅데이터와 스파크
-1. 아파치 스파크란
-	-1. 철학
-	-2. 등장 배경
-	-3. 역사
-	-4. 현재와 미래
-	-5. 실행
-	-6. 정리
-2. 스파크 간단히 살펴보기
-	-1. 기본 아키텍처
-	-2. 다양한 언어 API
-	-3. API
-	-4. 시작하기
-	-5. sparkSession
-	-6. DataFrame
-	-7. Transformation
-	-8. 액션
-	-9. Spark UI
-	-10. 종합예제
-	-11. 정리
-3. 스파크 기능 둘러보기
-	-1. 운영용 앱 실행
-	-2. Dataset: 타입 안정성 제공하는 구조적 API
-	-3. 구조적 스트리밍
-	-4. 머신러닝, 고급분석
-	-5. 저수준 API
-	-6. sparkR
-	-7. 스파크와 에코시스템, 패키지
-	-8. 정리
+## Part1 빅데이터와 스파크
+1. 아파치 스파크란  
+	1. 철학  
+	2. 등장 배경  
+	3. 역사  
+	4. 현재와 미래  
+	5. 실행  
+	6. 정리  
+2. 스파크 간단히 살펴보기  
+	1. 기본 아키텍처  
+	2. 다양한 언어 API  
+	3. API  
+	4. 시작하기  
+	5. sparkSession  
+	6. DataFrame  
+	7. Transformation  
+	8. 액션  
+	9. Spark UI  
+	10. 종합예제  
+	11. 정리  
+3. 스파크 기능 둘러보기  
+	1. 운영용 앱 실행  
+	2. Dataset: 타입 안정성 제공하는 구조적 API  
+	3. 구조적 스트리밍  
+	4. 머신러닝, 고급분석  
+	5. 저수준 API  
+	6. sparkR  
+	7. 스파크와 에코시스템, 패키지  
+	8. 정리  
 
-##Part2 구조적 API: DataFrame, SQL, Part 2Dataset
+## Part2 구조적 API: DataFrame, SQL, Part 2Dataset
 4. 구조적 API 개요
 	1. DataFrame과 Dataset
 	2. 스키마
@@ -118,7 +118,7 @@ comments: true
 	6. 그룹화와 집계(sum)
 	7. 정리
 
-##Part3 저수준 API
+## Part3 저수준 API
 12. RDD. Resilient Distributed Datasets (회복 가능한 분산 데이터셋)
 	1. What is 저수준 API?
 	2. RDD intro
@@ -144,7 +144,7 @@ comments: true
 	2. accumulator
 	3. 정리
 
-##Part4  운영용 애플리케이션
+## Part4  운영용 애플리케이션
 15. 클러스터에서 스파크 실행
 	1. spark app architecture
 	2. life cycle(outside spark)
@@ -174,7 +174,7 @@ comments: true
 	1. 간접적 성능 향상 기법
 	2. 직적벅 성능 향상 기법
 	정리
-##Part5  스트리밍
+## Part5  스트리밍
 20. 스트림 처리의 기초
 	1. What is 스트림 처리?
 	2. 핵심 설계 개념
@@ -205,7 +205,7 @@ comments: true
 	5. 스트리밍 리스터를 사용한 고급 모니터링
 	6. 정리
 
-##Part6  고급분석과 머신러닝
+## Part6  고급분석과 머신러닝
 24. 고급분석과 머신러닝 개요
 	1. 고급 분석 짧은 입문서
 	2. 스파크 고급 분석 툴킷
@@ -277,7 +277,7 @@ comments: true
 	4. 딥러닝 파이프라인을 사용한 간단한 예제
 	5. 정리
 
-##Part7 에코시스템
+## Part7 에코시스템
 32. 언어별 특성: 파이썬(PySpark) 과 R(SparkR, sparklyr)
 	1. PySpark
 	2. R로 스파크 사용하기
@@ -287,6 +287,5 @@ comments: true
 	2. 커뮤니티
 	3. 정리
 
-부록 A 스파크 설치 및 실행
-부록 B 더블린 원정대: 스파크 서밋 2017 더블린 참관기
-
+부록 A 스파크 설치 및 실행  
+부록 B 더블린 원정대: 스파크 서밋 2017 더블린 참관기  
