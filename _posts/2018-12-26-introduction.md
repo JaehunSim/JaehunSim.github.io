@@ -10,42 +10,42 @@ comments: true
 
 ## Part1 빅데이터와 스파크
 ### 1. 아파치 스파크란
-	1. 철학  
-	2. 등장 배경  
-	3. 역사  
-	4. 현재와 미래  
-	5. 실행  
-	6. 정리  
+	1. 철학
+	2. 등장 배경
+	3. 역사
+	4. 현재와 미래
+	5. 실행
+	6. 정리
 ### 2. 스파크 간단히 살펴보기
-	1. 기본 아키텍처  
-	2. 다양한 언어 API  
-	3. API  
-	4. 시작하기  
-	5. sparkSession  
-	6. DataFrame  
-	7. Transformation  
-	8. 액션  
-	9. Spark UI  
-	10. 종합예제  
-	11. 정리  
+	1. 기본 아키텍처
+	2. 다양한 언어 API
+	3. API
+	4. 시작하기
+	5. sparkSession
+	6. DataFrame
+	7. Transformation
+	8. 액션
+	9. Spark UI
+	10. 종합예제
+	11. 정리
 ### 3. 스파크 기능 둘러보기
-	1. 운영용 앱 실행  
-	2. Dataset: 타입 안정성 제공하는 구조적 API  
-	3. 구조적 스트리밍  
-	4. 머신러닝, 고급분석  
-	5. 저수준 API  
-	6. sparkR  
-	7. 스파크와 에코시스템, 패키지  
-	8. 정리  
+	1. 운영용 앱 실행
+	2. Dataset: 타입 안정성 제공하는 구조적 API
+	3. 구조적 스트리밍
+	4. 머신러닝, 고급분석
+	5. 저수준 API
+	6. sparkR
+	7. 스파크와 에코시스템, 패키지
+	8. 정리
 
-## Part2 구조적 API: DataFrame, SQL, Dataset  
-### 4. 구조적 API 개요  
-	1. DataFrame과 Dataset  
-	2. 스키마  
-	3. 구조적 데이터 타입 개요  
-	4. 구조적 API 실행 과정  
-	5. 정리  
-### 5. 구조적 API 기본 연산  
+## Part2 구조적 API: DataFrame, SQL, Dataset
+### 4. 구조적 API 개요
+	1. DataFrame과 Dataset
+	2. 스키마
+	3. 구조적 데이터 타입 개요
+	4. 구조적 API 실행 과정
+	5. 정리
+### 5. 구조적 API 기본 연산
 	1. 스키마  
 	2. 컬럼과 표현식  
 	3. 레코드와 로우  
