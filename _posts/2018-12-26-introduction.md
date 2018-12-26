@@ -2,7 +2,7 @@
 layout: post
 title:  "Example Post"
 date:   2018-12-26 14:50:30
-image: https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/545/images/s4KYd1XTZijRkleaJzpm_Think_of_Your_Strategy_as_a_Journey.jpg
+image: "/assets/images/background-post.jpg"
 comments: true
 ---
 
