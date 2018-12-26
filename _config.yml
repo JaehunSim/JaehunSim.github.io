@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Data Storyteller"
+title: "Tapu's Blog"
 description: > # this means to ignore newlines until "email:"
-   Dreamgonfly's blog
+   JaehunSim's blog
 
-email: dreamgonfly@gmail.com
+email: tapu1125@gmail.com
 #blog logo
 logo: "/assets/images/dragonfly_moon.jpg"
 float_logo: false # true, false (default)
@@ -16,21 +16,21 @@ float_logo: false # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dreamgonfly'
-author: 'Dreamgonfly'
+name: 'JaehunSim'
+author: 'JaehunSim'
 author_image: "/assets/images/dragonfly_moon.jpg"
 
 paginate:	5
 
-url: "https://jaehunsim.github.io" # the base hostname & protocol for your site
+url: "https://JaehunSim.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dreamgonfly'
+twitter_handle: '@JaehunSim'
 
 #fill in disqus shortname to use disqus
-disqus: dreamgonfly-blog
+disqus: JaehunSim
 
-google_analytics: UA-91026007-2
+google_analytics: UA-131389666-1
 
 # social icons and sharing options
 social:
@@ -49,7 +49,7 @@ social:
     share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dreamgonfly
+    url:	https://github.com/JaehunSim
     desc:	Fork me on github
     share_url:
     share_title:
