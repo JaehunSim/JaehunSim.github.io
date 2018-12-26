@@ -38,86 +38,86 @@ comments: true
 	7. 스파크와 에코시스템, 패키지  
 	8. 정리  
 
-## Part2 구조적 API: DataFrame, SQL, Part 2Dataset
-4. 구조적 API 개요
-	1. DataFrame과 Dataset
-	2. 스키마
-	3. 구조적 데이터 타입 개요
-	4. 구조적 API 실행 과정
-	5. 정리
-5. 구조적 API 기본 연산
-	1. 스키마
-	2. 컬럼과 표현식
-	3. 레코드와 로우
-	4. DataFrame Transformation
-	5. 정리
-6. 다양한 데이터 타입 다루기
-	1. where is API?
-	2. 데이터 타입 변환
-	3. boolean
-	4. numeric
-	5. string
-	6. datatime, timestamp
-	7. null
-	8. sort
-	9. 복합 데이터 타입
-	10. json
-	11. 사용자 정의 함수
-	12. Hive UDF
-	13. 정리
-7. 집계 연산 (group)
-	1. 집계함수
-	2. 그룹화
-	3. 윈도우 함수
-	4. 그룹화 셋
-	5. 사용자 정의 집계 함수
-	6. 정리
-8. 조인(join)
-	1. 표현식
-	2. 타입
-	3. inner join
-	4. outer join
-	5. left outer join
-	6. right outer join
-	7. left semi join
-	8. left anti join
-	9. natural join
-	10. cross join( cartesian join)
-	11. 문제점, 주의 사항
-	12. 수행 방식
-	13. 정리
-9. 데이터소스
-	1. 데이터 소스 API구조
-	2. csv
-	3. json
-	4. parquet(파케이)
-	5. orc
-	6. sql db
-	7. text
-	8. 고급 I/O 개념
-	9. 정리
-10. 스파크 SQL
-	1. What is SQL
-	2. 빅데이터와 SQL: Apache Hive
-	3. Spark SQL
-	4. sql 쿼리 실행 방법
-	5. catalogue(목록)
-	6. table
-	7. view
-	8. db
-	9. select statement
-	10. 고급 주제
-	11. 다양한 기능
-	12. 정리
-11. Dataset
-	1. 사용할 시기
-	2. 생성
-	3. Action
-	4. Transformation
-	5. Join
-	6. 그룹화와 집계(sum)
-	7. 정리
-
+## Part2 구조적 API: DataFrame, SQL, Dataset  
+4. 구조적 API 개요  
+	1. DataFrame과 Dataset  
+	2. 스키마  
+	3. 구조적 데이터 타입 개요  
+	4. 구조적 API 실행 과정  
+	5. 정리  
+5. 구조적 API 기본 연산  
+	1. 스키마  
+	2. 컬럼과 표현식  
+	3. 레코드와 로우  
+	4. DataFrame Transformation  
+	5. 정리  
+6. 다양한 데이터 타입 다루기  
+	1. where is API?  
+	2. 데이터 타입 변환  
+	3. boolean  
+	4. numeric  
+	5. string  
+	6. datatime, timestamp  
+	7. null  
+	8. sort  
+	9. 복합 데이터 타입  
+	10. json  
+	11. 사용자 정의 함수  
+	12. Hive UDF  
+	13. 정리  
+7. 집계 연산 (group)  
+	1. 집계함수  
+	2. 그룹화  
+	3. 윈도우 함수  
+	4. 그룹화 셋  
+	5. 사용자 정의 집계 함수  
+	6. 정리  
+8. 조인(join)  
+	1. 표현식  
+	2. 타입  
+	3. inner join  
+	4. outer join  
+	5. left outer join  
+	6. right outer join  
+	7. left semi join  
+	8. left anti join  
+	9. natural join  
+	10. cross join( cartesian join)  
+	11. 문제점, 주의 사항  
+	12. 수행 방식  
+	13. 정리  
+9. 데이터소스  
+	1. 데이터 소스 API구조  
+	2. csv  
+	3. json  
+	4. parquet(파케이)  
+	5. orc  
+	6. sql db  
+	7. text  
+	8. 고급 I/O 개념  
+	9. 정리  
+10. 스파크 SQL  
+	1. What is SQL  
+	2. 빅데이터와 SQL: Apache Hive  
+	3. Spark SQL  
+	4. sql 쿼리 실행 방법  
+	5. catalogue(목록)  
+	6. table  
+	7. view  
+	8. db  
+	9. select statement  
+	10. 고급 주제  
+	11. 다양한 기능  
+	12. 정리  
+11. Dataset  
+	1. 사용할 시기  
+	2. 생성  
+	3. Action  
+	4. Transformation  
+	5. Join  
+	6. 그룹화와 집계(sum)  
+	7. 정리  
+	
 ## Part3 저수준 API
 12. RDD. Resilient Distributed Datasets (회복 가능한 분산 데이터셋)
 	1. What is 저수준 API?
