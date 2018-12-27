@@ -102,12 +102,12 @@ ex). !location 신촌역
 
 ### 5. 자기가 쓸 채널에 만든 봇을 추가하세요. `/invite @봇이름`
 
-### 6. 	
+### 6. 필요한 라이브러리들을 설치한 후
+
 ```
 python -m pip install plotly
 python -m pip install slackclient
 ``` 
-로 필요한 라이브러리들을 설치 한 후,
 
 ### 7. 봇을 `python botV2.py` 로 실행 해 보세요
 
