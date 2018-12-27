@@ -75,33 +75,41 @@ ex). !location 신촌역
 
 ---
 
+#### 설정법 출처: github/hero0926/HQ_bot
+
 ## 설정법
 
-1. 슬랙 앱부터 만듭니다.(https://api.slack.com/apps/)
+### 1. [슬랙 앱부터 만듭니다.](https://api.slack.com/apps/)
 ![](https://www.fullstackpython.com/img/160604-simple-python-slack-bot/sign-in-slack.png)
 저기서 만드시면 됩니다.
 
-2. 만드신 후 여기(https://api.slack.com/bot-users)로 이동하셔서, 봇을 만드세요.
+### 2. 만드신 후 [여기](https://api.slack.com/bot-users)로 이동하셔서, 봇을 만드세요.
 ![](https://www.fullstackpython.com/img/160604-simple-python-slack-bot/custom-bot-users.png)
 왜 앱에서 봇을 만드냐면, 앱만이 interaction(사용자의 버튼 클릭 등)을 할 수 있거든요!
 
-3. oAuth도 만들어서 등록합니다.
+### 3. oAuth도 만들어서 등록합니다.
 ![](https://raw.githubusercontent.com/hero0926/HQ_bot/master/slack2.png)
 
 아래 있는 토큰을 TOKEN 에 등록하세요.
 
 위 곳에서 등록할 수 있습니다.(사실 어디인지 찾기가 아주 불편합니다)
 
-4. 이 내용들을 commandBook.py안에 등록하여 사용합니다.
+### 4. 이 내용들을 commandBook.py안에 등록하여 사용합니다.
+
 > 자신의 개인정보는 소중하니 이 정보들을 깃허브 등에 올리지 않게 주의 하도록 하세요. (깃허브에 올리면 자동으로 토큰이 무효됩니다.)
+
 > visualize_weight_change.py 에도 plotly.tools.set_credentials_file(username='자신의id', api_key='자신의api_key')를 입력하셔야 합니다.
 
-5. 자기가 쓸 채널에 만든 봇을 추가하세요. `/invite @봇이름`
+### 5. 자기가 쓸 채널에 만든 봇을 추가하세요. `/invite @봇이름`
 
-6. 	`python -m pip install plotly`
-	`python -m pip install slackclient`로 필요한 라이브러리들을 설치 한 후,
+### 6. 	
+```
+python -m pip install plotly
+python -m pip install slackclient
+``` 
+로 필요한 라이브러리들을 설치 한 후,
 
-7. 봇을 `python botV2.py` 로 실행 해 보세요
+### 7. 봇을 `python botV2.py` 로 실행 해 보세요
 
 ---
 
