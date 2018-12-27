@@ -8,7 +8,7 @@ comments: true
 
 # #Slack #슬랙 #음식추천 #추천 #추천시스템 #Chatbot #챗봇 #plotly
 
-# [food_recommend_slack_bot](https://github.com/JaehunSim/food_recommend_slack_bot)  
+# 깃허브 주소: [food_recommend_slack_bot](https://github.com/JaehunSim/food_recommend_slack_bot)  
 
 python 으로 만든 slack bot입니다. 사용 라이브러리는 아래와 같습니다.
 
@@ -75,7 +75,7 @@ ex). !location 신촌역
 
 ---
 
-#### 설정법 출처: github/hero0926/HQ_bot
+#### 설정법 출처: [github/hero0926/HQ_bot](https://github/hero0926/HQ_bot)
 
 ## 설정법
 
