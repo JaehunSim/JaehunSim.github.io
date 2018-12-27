@@ -1,11 +1,13 @@
 ---
+
 layout: post
-title:  "Slack 음식 추천 챗봇"
-date:   2018-12-27 16:54:30
+title: "Slack 음식 추천 챗봇"
+date: 2018-12-27 16:54:30
 image: "/assets/images/slack_logo.jpg"
-sitemap : 
-  changefreq : daily
+sitemap: 
+  changefreq: daily
 comments: true
+
 ---
 
 # #Slack #슬랙 #음식추천 #추천 #추천시스템 #Chatbot #챗봇 #plotly
