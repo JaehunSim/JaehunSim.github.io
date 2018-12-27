@@ -6,7 +6,7 @@ image: "/assets/images/spark_logo.png"
 comments: true
 ---
 
-# 스파크 목차
+# 공부를 시작할땐 목차부터 
 
 ## Part1 빅데이터와 스파크 
 
