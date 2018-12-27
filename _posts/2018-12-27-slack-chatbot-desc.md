@@ -2,7 +2,7 @@
 layout: post
 title:  "Slack 음식 추천 챗봇"
 date:   2018-12-27 16:54:30
-image: "/assets/images/slack_logo.jpg{: width="100" height="100"}"
+image: "/assets/images/slack_logo.jpg"{: width="100" height="100"}
 comments: true
 ---
 
