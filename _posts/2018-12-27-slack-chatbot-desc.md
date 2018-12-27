@@ -6,7 +6,7 @@ image: "/assets/images/slack_logo.jpg"
 comments: true
 ---
 
-# #Slack #슬랙 #음식추천 #추천 #추천시스템 #Chatbot #챗봇
+# #Slack #슬랙 #음식추천 #추천 #추천시스템 #Chatbot #챗봇 #plotly
 
 # [food_recommend_slack_bot](https://github.com/JaehunSim/food_recommend_slack_bot)  
 
