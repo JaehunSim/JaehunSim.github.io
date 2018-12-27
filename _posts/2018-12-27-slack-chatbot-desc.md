@@ -21,30 +21,23 @@ python 으로 만든 slack bot입니다. 사용 라이브러리는 아래와 같
 ---
 
 위 봇은 아래와 같이 작동합니다.  
-`!help` `!food_list`  
-
+`!help` `!food_list`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/4helpfood_list.gif)
-
-`!food`  
-
+---
+`!food`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/1food.gif)
-
-`!no`  
-
+---
+`!no`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/2no.gif)
-
-`!location` `!yes`  
-
+---
+`!location` `!yes`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/3locationyes.gif)
-
-`!visualize`  
-
+---
+`!visualize`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/5visualize.gif)
-
-`evaluation`  
-
+---
+`evaluation`
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/6evaluation.gif)
-
 ---
 
 ## 사용법
