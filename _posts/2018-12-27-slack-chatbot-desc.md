@@ -23,37 +23,31 @@ python 으로 만든 slack bot입니다. 사용 라이브러리는 아래와 같
 위 봇은 아래와 같이 작동합니다.
 
 `!help` `!food_list`  
-
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/4helpfood_list.gif)
 
 ---
 
 `!food`  
-
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/1food.gif)
 
 ---
 
 `!no`  
-
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/2no.gif)
 
 ---
 
 `!location` `!yes`  
-
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/3locationyes.gif)
 
 ---
 
 `!visualize`  
-
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/5visualize.gif)
 
 ---
 
-`evaluation`  
-
+`!evaluation`  
 ![](https://raw.githubusercontent.com/JaehunSim/food_recommend_slack_bot/master/slack_bot/doc/6evaluation.gif)
 
 ---
@@ -100,7 +94,6 @@ ex). !location 신촌역
 
 4. 이 내용들을 commandBook.py안에 등록하여 사용합니다.
 > 자신의 개인정보는 소중하니 이 정보들을 깃허브 등에 올리지 않게 주의 하도록 하세요. (깃허브에 올리면 자동으로 토큰이 무효됩니다.)
-
 > visualize_weight_change.py 에도 plotly.tools.set_credentials_file(username='자신의id', api_key='자신의api_key')를 입력하셔야 합니다.
 
 5. 자기가 쓸 채널에 만든 봇을 추가하세요. `/invite @봇이름`
