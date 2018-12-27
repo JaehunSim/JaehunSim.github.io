@@ -2,15 +2,13 @@
 layout: post
 title:  "Slack 음식 추천 챗봇"
 date:   2018-12-27 16:54:30
-image: "/assets/images/slack_logo.png"
+image: "/assets/images/slack_logo.jpg"
 comments: true
 ---
 
-# Slack 음식 추천 챗봇
+# #Slack #슬랙 #음식추천 #추천 #추천시스템 #Chatbot #챗봇
 
-# food_recommend_slack_bot
-
-md파일의 템플릿은 https://github.com/hero0926/HQ_bot 여기서 참고했습니다.
+# [food_recommend_slack_bot](https://github.com/JaehunSim/food_recommend_slack_bot)  
 
 python 으로 만든 slack bot입니다. 사용 라이브러리는 아래와 같습니다.
 
