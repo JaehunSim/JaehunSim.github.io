@@ -1,10 +1,12 @@
 ---
+
 layout: post
-title:  "스파크 목차 정리"
-date:   2018-12-26 21:42:30
+title: "스파크 목차 정리"
+date: 2018-12-26 21:42:30
 image: "/assets/images/spark_logo.png"
-  changefreq : daily
+  changefreq: daily
 comments: true
+
 ---
 
 # 공부를 시작할땐 목차부터 
