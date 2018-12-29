@@ -4,6 +4,7 @@ layout: post
 title: "스파크 목차 정리"
 date: 2018-12-26 21:42:30
 image: "/assets/images/spark_logo.png"
+sitemap:
   changefreq: daily
 comments: true
 
