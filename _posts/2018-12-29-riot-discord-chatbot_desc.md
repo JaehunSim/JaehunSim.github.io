@@ -10,6 +10,8 @@ comments: true
 
 ---
 
+# #Discord #디스코드 #RIOT_API #라이엇 API #전적검색 #Chatbot #챗봇
+
 ### 깃허브 주소: [RiotDiscordAPI](https://github.com/JaehunSim/RiotDiscordAPI)  
 
 # 디스코드 롤 챗봇
@@ -191,7 +193,9 @@ EC2 instance는 반드시 하나만 생성하고 더 만들면 stop이나 termin
 
 ---
 
-# #Discord #디스코드 #RIOT_API #라이엇 API #전적검색 #Chatbot #챗봇 #승부 예측 #Machine Learning #ML #Random Forest Classification
+추가 태그
+
+# #승부 예측 #Machine Learning #ML #Random Forest Classification
 
 ---
 
