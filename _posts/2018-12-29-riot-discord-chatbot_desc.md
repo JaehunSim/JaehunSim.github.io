@@ -47,10 +47,10 @@ discord_logging.py는 디버깅용 로그를 남길때 쓰는 스크립트입니
 
 ---
 
-위 봇은 아래와 같이 작동합니다.  
+위 봇은 아래와 같이 작동합니다. <span style="color: red">펼쳐보세요!</span>
 
 <details>
-<summary>명령어 입력 GIF 입니다. 눌러서 확인!</summary>
+  <summary>명령어 입력 GIF 입니다. 눌러서 확인!</summary>
   
 `!guide` : 명령어 입력 방법을 출력해줍니다.
 
