@@ -6,6 +6,7 @@ date: 2018-12-29 15:08:30
 image: "/assets/images/league_logo.jpg"
 sitemap: 
   changefreq: daily
+  priority: 1.0
 comments: true
 
 ---
