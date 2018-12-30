@@ -48,7 +48,9 @@ discord_logging.py는 디버깅용 로그를 남길때 쓰는 스크립트입니
 ---
 
 위 봇은 아래와 같이 작동합니다.  
-  
+
+<details>
+<summary>명령어 입력 GIF 입니다. 눌러서 확인!</summary>
   
 `!guide` : 명령어 입력 방법을 출력해줍니다.
 
@@ -107,7 +109,9 @@ discord_logging.py는 디버깅용 로그를 남길때 쓰는 스크립트입니
 `!predict` : !predict chmp1 chmp2 ... chmp10: 탑, 정글, 미드, 원딜, 서폿 순으로 두팀씩 조합을 제시해줬을 때, 어느 팀이 유리한지 예측해줍니다.
 
 ![](https://raw.githubusercontent.com/JaehunSim/RiotDiscordAPI/master/images/12.%20predict.gif)
-  
+
+</details>
+
 ---
 
 ## 사용법
