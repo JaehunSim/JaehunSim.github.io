@@ -6,6 +6,7 @@ date: 2018-12-27 16:54:30
 image: "/assets/images/slack_logo.jpg"
 sitemap: 
   changefreq: daily
+  priority: 1.0
 comments: true
 
 ---
