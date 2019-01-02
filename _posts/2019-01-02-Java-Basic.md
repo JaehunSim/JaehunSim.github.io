@@ -45,16 +45,16 @@ ctrl + i 누르면 자동정렬된다.
 ## Java 문법
 
 ```
-    for (int tmp: sizes2) {
-			System.out.print(tmp + " ");
-		}
+for (int tmp: sizes2) {
+		System.out.print(tmp + " ");
+	}
 
-		for (int i = 2; i <11; i++) {
-    for (int j = 1; j <9; j++) {
-			System.out.format("%5s",(i-1)*(2+j-1) + " ");
-			}
-			System.out.print("\n");
-		}  
+	for (int i = 2; i <11; i++) {
+for (int j = 1; j <9; j++) {
+		System.out.format("%5s",(i-1)*(2+j-1) + " ");
+		}
+		System.out.print("\n");
+	}  
 
 import java.util.Random;  
 Random r = new Random();  
