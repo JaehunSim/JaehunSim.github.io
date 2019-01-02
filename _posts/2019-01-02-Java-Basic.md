@@ -43,6 +43,8 @@ eclipse: javaw.exe
 ctrl + i 누르면 자동정렬된다.  
 
 ## Java 문법
+
+```
     for (int tmp: sizes2) {
 			System.out.print(tmp + " ");
 		}
@@ -58,3 +60,4 @@ import java.util.Random;
 Random r = new Random();  
 System.out.println(r.nextInt(45)+1);  
 
+```
