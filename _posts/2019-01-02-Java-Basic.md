@@ -24,10 +24,6 @@ default: int
 float, double  
 default: double  
 
-## Eclipse 시작
-1. File-New-other  
-2. make new Java class
-
 ## class 만든 이후  
 1. 자동완성: ctrl + space  
 2. ctrl + s: 저장 및 컴파일  
@@ -37,10 +33,6 @@ default: double
 명령 프롬트: java  
 eclipse: javaw.exe  
 디버깅할때 javaw 프로세스를 죽이면 도움 될 수 있다.  
-
-## Eclipse 기능
-자리 맞출 때  
-ctrl + i 누르면 자동정렬된다.  
 
 ## Java 문법
 
