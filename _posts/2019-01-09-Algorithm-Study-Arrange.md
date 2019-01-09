@@ -10,13 +10,26 @@ comments: true
 
 ---
 
+---
+
+layout: post
+title: "알고리즘 스터디  정리"
+date: 2019-01-09 09:27:00
+sitemap: 
+  changefreq: daily
+  priority: 1.0
+comments: true
+
+---
+
 # 알고리즘 스터디
 
 알고리즘 유형별로 정리된 사이트를 이용해서 공부하자!  
 
-1. [https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)  
+## 1. [https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)  
 8가지 주제에 대해 배우기 좋은 Top 10 문제들을 뽑아놨다.  
-   1. Graph  
+
+### 1. Graph  
       1. BFS  
       2. DFS
       3. Dijkstra  
@@ -27,7 +40,8 @@ comments: true
       8. Topological Sort
       9. Boggle
       10. Bridges
-   2. Linked List
+
+### 2. Linked List
       1. Insertion  
       2. Delete
       3. Compare two strings  
@@ -38,7 +52,8 @@ comments: true
       8. Detect and Remove Loop
       9. Merge Sort
       10. Select random node
-   3. Dynamic Programming
+
+### 3. Dynamic Programming
       1. Longest Common Subsequence  
       2. Longest Increasing Subsequence
       3. Edit Distance
@@ -49,7 +64,8 @@ comments: true
       8. Optimal Strategy
       9. 0-1 Knapsack Problem
       10. Boolean Parenthesization Problem
-   4. Sorting and Searching
+
+### 4. Sorting and Searching
       1. Binary Search  
       2. Searing in sorted, rotated array
       3. Bubble Sort 
@@ -60,7 +76,8 @@ comments: true
       8. Interpolation Search
       9. Find Kth Smallest/Largest Element in Unsorted Array
       10. Given sorted array and x, find the pair whose sum is closest to x
-   5. Tree/ Binary Search Tree
+
+### 5. Tree/ Binary Search Tree
       1. Find Minumum Depth of a Binary Tree  
       2. Maximum Path Sum in a Binary Tree
       3. Preorder Traversal of BST
@@ -71,7 +88,8 @@ comments: true
       8. Lowest Common Ancestor in BST
       9. Check binary tree is subtree of another binary tree
       10. reverse alternate levels of a perfect binary tree
-   6. Number Theory
+
+### 6. Number Theory
       1. Modular Exponentiation
       2. Modular multiplicative inverse
       3. Primality Test | Set 2 (Fermat Method)
@@ -82,7 +100,8 @@ comments: true
       8. Segmented Sieve
       9. Chinese remainder theorem
       10. Lucas Theorem
-   7. BIT Manipulation
+
+### 7. BIT Manipulation
       1. Maximum Subarray XOR
       2. Magic Number
       3. Sum of bit differences among all pairs
@@ -93,7 +112,8 @@ comments: true
       8. Rotate bits of a number
       9. Count number of bits to be flipped to convert A to B
       10. Find Next Sparse Number
-   8. String / Array
+
+### 8. String / Array
       1. Reverse an array without affecting special characters
       2. All Possible Palindromic Partitions
       3. Count triplets with sum smaller than a given value
@@ -107,7 +127,7 @@ comments: true
 
    1번, 3번 주제와 Binary Tree 와 관련된 4번, 5번 주제에 집중해서 공부해야 겠다.
 
-2. https://programmers.co.kr/learn/challenges?tab=practice_kit
+## 2. [https://programmers.co.kr/learn/challenges?tab=practice_kit](https://programmers.co.kr/learn/challenges?tab=practice_kit)
    1. 해시
    2. 스택/큐
    3. 힙
@@ -119,5 +139,6 @@ comments: true
    9. BST
    10. Graph  
 
-   프로그래머스는 깔끔하게 잘 정리되어 있다.  
-   6번부터는 좀 더 공부해야 한다.
+프로그래머스는 깔끔하게 잘 정리되어 있다.  
+6번부터는 좀 더 공부해야 한다.
+
