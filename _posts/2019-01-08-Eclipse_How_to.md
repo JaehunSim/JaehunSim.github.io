@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Eclipse 사용법"
+title: "Eclipse 단축키 및 사용법"
 date: 2019-01-08 11:09:00
 sitemap: 
   changefreq: daily
@@ -10,7 +10,7 @@ comments: true
 
 ---
 
-# Eclipse shortcut
+# Eclipse shortcut(단축키)
 
 ## 실행 및 새로고침
 *Ctrl + F11* : 실행  
