@@ -26,7 +26,8 @@ https://www.journaldev.com/4098/java-heap-space-vs-stack-memory
 
 `` 7. When stack memory is full, Java runtime throws java.lang.StackOverFlowError whereas if heap memory is full, it throws java.lang.OutOfMemoryError: Java Heap Space error. ``
 
-다음은 Sample 코드와 그에 대한 메모리 그림이다. Reference는 위의 링크에서!
+다음은 Sample 코드와 그에 대한 메모리 그림이다. Reference는 위의 링크에서!  
+Stack Memory를 이해하기 좋은 예시 같다.
 
 ~~~ Java
 
@@ -51,4 +52,14 @@ public class Memory {
 ~~~
 
 ![](https://cdn.journaldev.com/wp-content/uploads/2014/08/Java-Heap-Stack-Memory.png)
+
+다음으로 Java Heap Space를 좀 더 알아보자. 이것을 이해해야 Java Garbage Collection을 잘 이해할 수 있다.  
+
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java
+
+![](https://cdn.journaldev.com/wp-content/uploads/2014/05/Java-Memory-Model.png)
+
+이 그림은 힙 메모리의 구조를 보여준다. Perm은 힙 메모리에 포함 안 된다.  
+크게 Young Generation, Old Generation으로 나눌 수 있다.  
+힙 메모리의 각 구조 크기를 runtime 때 조절할 수 있다. 
 
