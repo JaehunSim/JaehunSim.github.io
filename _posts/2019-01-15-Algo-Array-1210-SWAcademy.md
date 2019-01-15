@@ -1,3 +1,16 @@
+---
+
+layout: post
+title: "SWExpert 1210번 문제풀이"
+date: 2019-01-15 10:25:00
+sitemap: 
+  changefreq: daily
+  priority: 1.0
+comments: true
+
+---
+
+
 # [#1210 SW Expert Academy](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)
 
 사다리를 Array로 표현하고 골인지점이 어디인지를 찾는 문제이다.
