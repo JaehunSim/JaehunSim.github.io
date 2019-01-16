@@ -28,7 +28,7 @@ comments: true
 *ctrl + shift + o* : 자동으로 import  
 *ctrl + I* : 들여쓰기 자동 수정  
 *ctrl + shift + F* : 코드 자동 정리!  
-*sysout, try, for + ctrl+space*: templates  
+*main, sysout, try, for + ctrl+space*: templates  
 *alt + shift + s*: OOP 관련 templates
 *ctrl + space* : 자동 완성  
 *ctrl + 1* : 에러 수정
