@@ -12,12 +12,12 @@ comments: true
 
 # 알고리즘 스터디 순서 및 커리큘럼
 
-1. [DP](https://jaehunsim.github.io/2019/01/25/DP-Study.html)
-2. DFS/BFS
+1. [DP](https://jaehunsim.github.io/2019/01/25/DP-Study.html) #Dynamic Programming
+2. DFS/BFS #Depth First Search, Breadth First Search
 3. Graph
-4. 그리디 / 정렬
-5. BST
-6. 힙
+4. 그리디 / 정렬 #Greedy Algorithm, Sorting
+5. BST #Binary Search Tree
+6. 힙 #Heap
 
 > 스터디 진행 후 링크 첨부 예정  
 
