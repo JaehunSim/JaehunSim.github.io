@@ -12,7 +12,7 @@ comments: true
 
 # 알고리즘 스터디 순서 및 커리큘럼
 
-1. DP
+1. [DP](https://jaehunsim.github.io/2019/01/25/DP-Study.html)
 2. DFS/BFS
 3. Graph
 4. 그리디 / 정렬
