@@ -41,5 +41,19 @@ comments: true
 
 ---
 
+### DFS/BFS 문제 3번 
+[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)  
+
+### DFS/BFS 문제 4번 
+[여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)  
+
+## 풀이코드
+[DFS/BFS 문제 3번](https://dolphins-it.tistory.com/226)  
+
+[DFS/BFS 문제 4번](https://chaibin0.tistory.com/3?category=827947)  
+
+
+---
+
 
 
