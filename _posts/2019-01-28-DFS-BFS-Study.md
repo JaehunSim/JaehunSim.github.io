@@ -55,5 +55,12 @@ comments: true
 
 ---
 
+### DFS/BFS 문제 5번 
+[구슬 탈출 2](https://www.acmicpc.net/problem/13460)  
+
+## 풀이코드 
+[DFS/BFS 문제 5번](https://js1jj2sk3.tistory.com/105)  
+
+---
 
 
