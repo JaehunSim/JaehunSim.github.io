@@ -15,7 +15,7 @@ comments: true
 1. [DP](https://jaehunsim.github.io/2019/01/25/DP-Study.html) #Dynamic Programming
 2. [DFS/BFS](https://jaehunsim.github.io/2019/01/28/DFS-BFS-Study.html) #Depth First Search, Breadth First Search
 3. Graph
-4. 그리디 / 정렬 #Greedy Algorithm, Sorting
+4. [그리디](https://jaehunsim.github.io/2019/02/08/Greedy-Study.html) / 정렬 #Greedy Algorithm, Sorting
 5. BST #Binary Search Tree
 6. 힙 #Heap
 
