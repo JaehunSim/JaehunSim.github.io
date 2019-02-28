@@ -24,4 +24,12 @@ Coppersmith-Winograd: n^2.372 [link](https://en.wikipedia.org/wiki/Coppersmith%E
 
 Freivald's algorithm: [link](https://www.geeksforgeeks.org/freivalds-algorithm/)  
 > O(kn2) time the algorithm can verify a matrix product with probability of failure less than 2-k  
-Monte Carlo randomized algorithm의 일종이다.
+
+Monte Carlo randomized algorithm의 일종이다.  
+
+## numpy dot product
+
+numpy로 matrix multiplication을 한다면 float으로 형변환을 한다음 진행하자.  
+numpy가 BLAS library와 엮여있는데 float일때만 이를 활용한다고 한다.  
+finely tuned, multithreaded 특징이 있어서 무지 빠르다.  
+[link](https://stackoverflow.com/questions/29942281/python-matrix-provide-with-numpy-dot)  
