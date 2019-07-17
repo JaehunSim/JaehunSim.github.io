@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Blog Template from  
-<https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html>
+티스토리로 이전합니다! 테마는 `깔끔한 코드 작성법`입니다.
+블로그 이전: http://jaehunsim.tistory.com
